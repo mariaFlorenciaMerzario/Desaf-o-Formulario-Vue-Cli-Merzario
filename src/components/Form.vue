@@ -112,7 +112,6 @@ import Table from './Table.vue'
       ],
      
     }),
-
     methods: {
       validate () {
         this.$refs.form.validate()
