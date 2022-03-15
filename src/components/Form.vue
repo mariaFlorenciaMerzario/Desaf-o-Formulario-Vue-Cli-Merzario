@@ -40,7 +40,7 @@
     <v-btn
       :disabled="!valid"
       color="primary"
-      class="mr-3"
+      class="mr-4"
       @click="validate"
     >
       Validar
